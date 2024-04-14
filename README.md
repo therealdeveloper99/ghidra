@@ -1,5 +1,3 @@
-<img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
-
 # Ghidra Software Reverse Engineering Framework
 
 Ghidra is a software reverse engineering (SRE) framework created and maintained by the 
